@@ -1,0 +1,35 @@
+
+.custom-top {
+  height: 20%; 
+  display: flex;
+  align-items: center;
+  background-color: #ffffff; 
+}
+
+.custom-top-colored {
+  background-color: #cce5ff; 
+  height: 100%; 
+  padding: 10px;
+}
+
+.custom-bottom {
+  background-color: #e2e3e5; 
+  height: 80%; 
+  margin: 0;
+}
+
+.custom-left {
+  background-color: #f8d7da; 
+}
+
+.custom-center {
+  background-color: #d4edda; 
+}
+
+.custom-right {
+  background-color: #9c0f0f; 
+}
+.custom-footer {
+  background-color: #343a40; 
+  color: white;
+}

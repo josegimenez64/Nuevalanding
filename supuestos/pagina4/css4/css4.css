@@ -1,0 +1,30 @@
+
+.custom-top {
+  background-color: #cce5ff; 
+  height: 20%; 
+  margin: 0;
+}
+
+.custom-bottom {
+  background-color: #e2e3e5; 
+  height: 80%; 
+  margin: 0;
+}
+
+.custom-left {
+  background-color: #f8d7da; /* Rosa claro */
+}
+
+.custom-center {
+  background-color: #d4edda; /* Verde claro */
+}
+
+.custom-right {
+  background-color: #fefefe; /* Blanco */
+}
+
+.custom-footer {
+  background-color: #343a40; 
+  color: white;
+}
+  

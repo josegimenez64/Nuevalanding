@@ -1,0 +1,26 @@
+.columnasup {
+    background-color: #cce5ff; 
+    margin: 0;
+    padding: 0;
+  }
+  
+  .custom-left {
+    background-color: #f8d7da;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 5px; 
+  }
+  
+  .custom-right {
+    background-color: #d4edda; 
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 5px; 
+  }
+  .custom-footer {
+    background-color: #343a40; 
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+  }
+    
