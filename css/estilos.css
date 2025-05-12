@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #a8a8a8;
+    box-sizing: border-box;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 5px;
+    width: 95vw;
+    height: 95vh;
+    box-sizing: border-box;
+  
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    text-align: left;
+    border: 2px dotted #000; 
+    background-color: #fff;
+    padding: 10px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.card h2 {
+    margin: 0 0 10px;
+    font-size: 1.5vw; 
+}
+
+.card p {
+    font-size: 1vw; 
+    line-height: 1.4;
+    margin: 0;
+    text-align: left;
+}
